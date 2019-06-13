@@ -3,6 +3,10 @@
 @import "../node_modules/bootstrap/scss/variables";
 @import "../node_modules/bootstrap/scss/mixins";
 
+body {
+  padding-top: 56px;
+}
+
 :root {
   --primary: #040a0f;
   --secondary: #6c757d;
