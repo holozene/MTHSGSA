@@ -1,11 +1,8 @@
 @import "/bootstrap-4.3.1-dist/css/bootstrap.min.css";
 
-body {
-  padding-top: 56px;
-  padding-bottom: 20px;
-}
-
 :root {
+  padding-top: 72px;
+  padding-bottom: 20px;
   --primary: #040a0f;
   --secondary: #c5c5c5;
   --success: #83cf95;
